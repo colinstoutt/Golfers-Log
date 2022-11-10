@@ -12,6 +12,8 @@ NodeJS, Express, MongoDB, Mongoose, ejs, Heroku
 
 To get started, follow the link below and sign up. After logging in all you need to do is click the 'add round' button to get started.
 
+https://my-golf-log.herokuapp.com/tracker
+
 ## Whats Next?
 
 I plan on adding some more styling. I want to integrate colors on the scorecard to signify par, birdies, bogeys, etc.
