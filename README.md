@@ -16,6 +16,7 @@ https://my-golf-log.herokuapp.com/tracker
 
 ## Whats Next?
 
+I need to add some sort of branding.
 I plan on adding some more styling. I want to integrate colors on the scorecard to signify par, birdies, bogeys, etc.
 I also want to modify the final score output to show 'even' instead of '0' and to add a '+' in front of positive scores.
 
